@@ -1,4 +1,4 @@
-# Hello, I'm <Romit Mendhe>
+# Hello, I'm Romit Mendhe
 Welcome to my GitHub profile....
 
 
